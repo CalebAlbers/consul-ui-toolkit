@@ -1,5 +1,22 @@
 # @hashicorp/consul-ui-toolkit
 
+## 1.0.0
+
+### Major Changes
+
+- 2fb974b: Rename list-item Label, Label2 to Section, SecondSection
+
+### Minor Changes
+
+- d21d187: Add Service list item and Service instance list item
+
+### Patch Changes
+
+- a6657d1: Upgrade @hashicorp/design-system-components.
+- 2fb974b: fix: update copy-block cursor to be pointer
+- e453db1: Update Service List Item types. Same overall type, just formatting changed.
+- 3c0d182: Upgrade @hashicorp/design-system-components -> 2.7.1
+
 ## 0.1.0
 
 ### Minor Changes
